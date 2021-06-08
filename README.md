@@ -1,1 +1,1 @@
-The functions I wish I had written during Outco's Visitor Class and HackerRank Challenge.
+Functions written for Outco's Visitor Class and HackerRank challenge
