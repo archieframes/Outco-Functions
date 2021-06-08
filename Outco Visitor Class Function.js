@@ -32,6 +32,3 @@ function oneConverter(n, memo = {}) {
 console.log(oneConverter(5));
 console.log(oneConverter(11));
 console.log(oneConverter(1001));
-
-// Winning Methodology: Write base case, then write function from the bottom up, referencing my tree from the bottom up to discern next steps.
-// This works because once the base case is finally reached by some recursive call, it will return the base case as the answer to the previous call, then work backward through the function, through all recursuve calls up to the initial function call.
